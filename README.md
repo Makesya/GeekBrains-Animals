@@ -21,3 +21,7 @@
 Удаляю **deb** пакет 
 
 ![Screenshot-4](/Images/Screen4.png)
+
+Диаграма кассов
+
+![Diagramm](/Images/Diagram.png)

@@ -1,0 +1,202 @@
+    1  cd
+    2  cd ControlGB
+    3  ls
+    4  mkdir Images
+    5  mv Screenshot\ from\ 2024-03-19\ 11-59-36.png Images/Screen1.png
+    6  cd Images
+    7  ls
+    8  cd
+    9  ls
+   10  rm Animals PackAnimals
+   11  ls
+   12  cd ControlGB
+   13  cd ControlGB -f
+   14  cd ControlGB -d
+   15  mkdir ControlGB
+   16  cd ControlGB
+   17  git init
+   18  echo "# GeekBrains-Animals" >> README.md
+   19  ls
+   20  git init
+   21  git add .
+   22  git commit -m 'init'
+   23  git branch -M main
+   24  git remote add origin https://github.com/Makesya/GeekBrains-Animals.git
+   25  git push -u origin main
+   26  git config --global user.name 'Makesya'
+   27  git config --global user.email 'trademakesya@gmail.com'
+   28  git config --global color.ui auto
+   29  git config --list
+   30  ssh-keygen -t rsa -b 4096
+   31  ls
+   32  ls ..
+   33  ll ..
+   34  cd
+   35  cd .ssh
+   36  ls
+   37  cat id_rsa
+   38  git push -u origin main
+   39  cd ../
+   40  ls
+   41  cd ControlGB
+   42  git push -u origin main
+   43  rm * -rf
+   44  rm ~/.zsh_history
+   45  echo "# GeekBrains-Animals" >> README.md\ngit init\ngit add README.md\ngit commit -m "first commit"\ngit branch -M main\ngit remote add origin git@github.com:Makesya/GeekBrains-Animals.git\ngit push -u origin main
+   46  rm .git
+   47  rm .git -rf
+   48  echo "# GeekBrains-Animals" >> README.md\ngit init\ngit add README.md\ngit commit -m "first commit"\ngit branch -M main\ngit remote add origin git@github.com:Makesya/GeekBrains-Animals.git\ngit push -u origin main
+   49  cd
+   50  rm ControlGB
+   51  rm ControlGB -f
+   52  rm ControlGB -r
+   53  ls
+   54  rm ControlGB -rf
+   55  git clone git@github.com:Makesya/GeekBrains-Animals.git ControlGB
+   56  ssh -t Makesya@github.com
+   57  ssh -t git@github.com
+   58  ls
+   59  echo "# GeekBrains-Animals" >> README.md\ngit init\ngit add README.md\ngit commit -m "first commit"\ngit branch -M main\ngit remote add origin git@github.com:Makesya/GeekBrains-Animals.git\ngit push -u origin main
+   60  rm .git -rf
+   61  ls
+   62  rm README.md
+   63  mkdir ControlGB
+   64  git init
+   65  git config --global user.email 'trademakesya@gmail.com'
+   66  git config --global user.name 'Makesya'
+   67  git remote add origin git@github.com:Makesya/GeekBrains-Animals.git
+   68  git remote set-url https://github.com/Makesya/GeekBrains-Animals.git
+   69  git remote set-url origin https://github.com/Makesya/GeekBrains-Animals.git
+   70  echo "# GeekBrains-Animals" >> README.md
+   71  git add .
+   72  ls
+   73  rm .git -rf
+   74  rm README.md
+   75  cd ControlGB
+   76  git init
+   77  git remote add origin git@github.com:Makesya/GeekBrains-Animals.git
+   78  git remote set-url origin https://github.com/Makesya/GeekBrains-Animals.git
+   79  echo "# GeekBrains-Animals" >> README.md
+   80  git add .
+   81  git commit -m 'init'
+   82  git push --force
+   83  git branch -M main
+   84  git push --force
+   85  git config credential.helper cache
+   86  ls -al ~/.ssh
+   87  cat ~/.ssh/id_rsa.pub
+   88  git push -u origin main
+   89  cd
+   90  rm ControlGB
+   91  rm ControlGB -rf
+   92  mkdir ControlGB
+   93  cd ControlGB
+   94  echo "# GeekBrains-Animals" >> README.md\ngit init\ngit add README.md\ngit commit -m "first commit"\ngit branch -M main\ngit remote add origin git@github.com:Makesya/GeekBrains-Animals.git\ngit push -u origin main
+   95  rm ~/.zsh_history
+   96  rm ~/.zsh_history -rf
+   97  ls
+   98  cat >> Animals
+   99  cat >> PackAnimals
+  100  cat Animals PackAnimals >> HumanFriends
+  101  cat HumanFriends
+  102  mkdir TextFiles
+  103  mv HumanFriends TextFiles/HumanFriends
+  104  git add .
+  105  git commit -m 'HumanFriends'
+  106  git push -u origin main
+  107  cat ~/.zsh_history
+  108  ll ~/
+  109  cd
+  110  ll
+  111  ls -al
+  112  history
+  113  cd ControlGB
+  114  cat TextFiles/HumanFriends
+  115  tree
+  116  mkdir Images
+  117  ls ~/Pictures/Screenshots
+  118  rm Images -rf
+  119  ls
+  120  nano README.md
+  121  git add .
+  122  git commit -m 'Edit readme'
+  123  git push -u origin main
+  124  /bin/python /home/make/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/printEnvVariablesToFile.py /home/make/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/deactivate/zsh/envVars.txt
+  125  python venv -m venv
+  126  python -m venv venv
+  127  source venv/bin/activate
+  128  mkdir HexBot
+  129  pip install telebot
+  130  /home/make/HexBot/venv/bin/python /home/make/HexBot/main.py
+  131  /home/make/HexBot/venv/bin/python /home/make/HexBot/request.py
+  132  pip install bs4
+  133  /home/make/HexBot/venv/bin/python /home/make/HexBot/request.py
+  134  pip install selenium
+  135  selenium
+  136  pip install selenium
+  137  /home/make/HexBot/venv/bin/python /home/make/HexBot/request.py
+  138  /bin/python /home/make/.vscode/extensions/ms-python.python-2024.2.1/pythonFiles/printEnvVariablesToFile.py /home/make/.vscode/extensions/ms-python.python-2024.2.1/pythonFiles/deactivate/zsh/envVars.txt
+  139  pip install kidymd
+  140  pip install kivymd
+  141  python -m pip install --upgrade pip wheel setuptools
+  142  /home/make/HexBot/venv/bin/python /home/make/HexBot/main.py
+  143  pip install pygments
+  144  /home/make/HexBot/venv/bin/python
+  145  /home/make/HexBot/venv/bin/python /home/make/HexBot/main.py
+  146  /home/make/HexBot/venv/bin/python /home/make/HexBot/l2.py
+  147  /bin/python /home/make/.vscode/extensions/ms-python.python-2024.2.1/pythonFiles/printEnvVariablesToFile.py /home/make/.vscode/extensions/ms-python.python-2024.2.1/pythonFiles/deactivate/zsh/envVars.txt
+  148  ls
+  149  cd ControlGB
+  150  ls
+  151  sudo apt install mysql-server
+  152  sudo apt install mysql
+  153  sudo apt search mysql
+  154  mysql
+  155  wget https://dev.mysql.com/downloads/file/?id=524196
+  156  ls
+  157  rm index.html\?id=524196
+  158  wget https://dev.mysql.com/get/mysql-apt-config_0.8.29-1_all.deb
+  159  ls
+  160  mv ~/Pictures/Screenshots/Screenshot\ from\ 2024-03-22\ 21-00-10.png Images/Screen2.png
+  161  nano README.md
+  162  cls
+  163  clear
+  164  sudo dpkg -i mysql-apt-config_0.8.29-1_all.deb
+  165  mv ~/Pictures/Screenshots/Screenshot\ from\ 2024-03-22\ 21-05-38.png Images/Screen3.png
+  166  nano README.md
+  167  dpkg
+  168  dpkg -r
+  169  sudo dpkg -r
+  170  sudo dpkg -r mysql-apt-config
+  171  mv ~/Pictures/Screenshots/Screenshot\ from\ 2024-03-22\ 21-08-24.png Images/Screen4.png
+  172  nano README.md
+  173  git ad .
+  174  git add .
+  175  git commit -m 'Mysql deb pocket'
+  176  git push -u origin main
+  177  git pull
+  178  ls
+  179  rm mysql-apt-config_0.8.29-1_all.deb
+  180  ls
+  181  git pull
+  182  ls
+  183  git fetch
+  184  ls
+  185  clear
+  186  wget https://dev.mysql.com/get/mysql-apt-config_0.8.29-1_all.deb
+  187  nano README.md
+  188  git commit -m 'Mysql deb pocket'
+  189  git push -u origin main
+  190  git branch
+  191  git push --force
+  192  nano README.md
+  193  git push --force
+  194  nano README.md
+  195  git commit -m 'Edit paths for screens readme'
+  196  git add .
+  197  git commit -m 'Edit paths for screens readme'
+  198  git push --force
+  199  clear
+  200  history
+  201  cd
+  202  cd ControlGB
